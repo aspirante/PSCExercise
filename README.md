@@ -14,9 +14,9 @@ The project implements:
 - Clean Architecture 
 - DI
 
-## Kotlin
+## Language
 
-- Coroutines
+- Kotlin
 
 ## JSON
 
@@ -28,7 +28,12 @@ The project implements:
 - LiveData
 - View Binding
 - Hilt (Di)
+- Coroutines
 
 ## Navigation
 
 - Navigation component
+
+## Algoritm
+
+- Hungarian algoritm (Port source Java language code to Kotlin language) - Open source
