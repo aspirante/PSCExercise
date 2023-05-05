@@ -1,4 +1,4 @@
-# Platform Science Code Exercise - Hungarian algoritm
+# Platform Science Code Exercise - Hungarian algorithm
 
 This app. shows a Drivers list and a Shipments(Address) list.
 
@@ -36,4 +36,4 @@ The project implements:
 
 ## Algoritm
 
-- Hungarian algoritm (Port source Java language code to Kotlin language) - Open source
+- Hungarian algorithm (Port source Java language code to Kotlin language) - Open source
