@@ -1,4 +1,4 @@
-# Platform Science Code Exercise
+# Platform Science Code Exercise - Hungarian algoritm
 
 This app. shows a Drivers list and a Shipments(Address) list.
 
